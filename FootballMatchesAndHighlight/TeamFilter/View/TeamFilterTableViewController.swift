@@ -109,7 +109,7 @@ class TeamFilterTableViewController: UITableViewController {
             debugPrint("Finished")
           case .failure(let error):
             debugPrint(error)
-            self?.showDefaultErrorAlert(title: error.localizedDescription)
+            self?.showDefaultAlert(title: error.localizedDescription)
         }
       } receiveValue: {
         [weak self] teams in

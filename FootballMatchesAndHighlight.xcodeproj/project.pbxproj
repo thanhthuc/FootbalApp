@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		DB10DE6E2B58E1D60097E3DF /* ImageCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB10DE6D2B58E1D60097E3DF /* ImageCache.swift */; };
 		DB10DE722B590CA90097E3DF /* TeamFilterViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB10DE712B590CA90097E3DF /* TeamFilterViewModelTests.swift */; };
-		DB3067922B5D795F007A9975 /* AlertHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB3067912B5D795F007A9975 /* AlertHelper.swift */; };
+		DB3067922B5D795F007A9975 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB3067912B5D795F007A9975 /* Extension.swift */; };
 		DB49A8D52B5D180C00C0EE06 /* CoreDataLocalServiceProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB49A8D42B5D180C00C0EE06 /* CoreDataLocalServiceProtocol.swift */; };
 		DB49A8D82B5D1A3800C0EE06 /* MatchesCoreDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB49A8D72B5D1A3800C0EE06 /* MatchesCoreDataService.swift */; };
 		DB49A8DA2B5D1BC500C0EE06 /* TeamCoreDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB49A8D92B5D1BC500C0EE06 /* TeamCoreDataService.swift */; };
@@ -69,7 +69,7 @@
 		DB10DE6D2B58E1D60097E3DF /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
 		DB10DE712B590CA90097E3DF /* TeamFilterViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamFilterViewModelTests.swift; sourceTree = "<group>"; };
 		DB2AF5402B5E02A30076A27C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		DB3067912B5D795F007A9975 /* AlertHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertHelper.swift; sourceTree = "<group>"; };
+		DB3067912B5D795F007A9975 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 		DB49A8D42B5D180C00C0EE06 /* CoreDataLocalServiceProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataLocalServiceProtocol.swift; sourceTree = "<group>"; };
 		DB49A8D72B5D1A3800C0EE06 /* MatchesCoreDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchesCoreDataService.swift; sourceTree = "<group>"; };
 		DB49A8D92B5D1BC500C0EE06 /* TeamCoreDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamCoreDataService.swift; sourceTree = "<group>"; };
@@ -149,7 +149,7 @@
 		DB3067902B5D794E007A9975 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
-				DB3067912B5D795F007A9975 /* AlertHelper.swift */,
+				DB3067912B5D795F007A9975 /* Extension.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -547,7 +547,7 @@
 				DB5414742B54208600BC7CA1 /* URLSessionAPIClient.swift in Sources */,
 				DB54142B2B52D75000BC7CA1 /* AppDelegate.swift in Sources */,
 				DB5414352B52D75000BC7CA1 /* FootballMatchesAndHighlight.xcdatamodeld in Sources */,
-				DB3067922B5D795F007A9975 /* AlertHelper.swift in Sources */,
+				DB3067922B5D795F007A9975 /* Extension.swift in Sources */,
 				DB5414672B52E1EB00BC7CA1 /* TeamRemoteRepository.swift in Sources */,
 				DB49A8E02B5D21A400C0EE06 /* LocalTeamRepository.swift in Sources */,
 				DB49A8DC2B5D204000C0EE06 /* LocalRepositoryProtocol.swift in Sources */,

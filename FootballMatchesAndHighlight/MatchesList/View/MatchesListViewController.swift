@@ -68,13 +68,14 @@ class MatchesListViewController: UIViewController {
   private func setupListener() {
     matchesListViewModel
       .teamsListPublisher
+      .receive(on: RunLoop.main)
       .sink {[weak self] completionError in
         switch completionError {
           case .finished:
             debugPrint("finish")
           case .failure(let error):
             debugPrint("error \(error)")
-            self?.showDefaultErrorAlert(title: error.localizedDescription)
+            self?.showDefaultAlert(title: error.localizedDescription)
         }
       } receiveValue: { [weak self] teams in
         guard let self else { return }
@@ -92,7 +93,7 @@ class MatchesListViewController: UIViewController {
           case .failure(let error):
             // Show popup error
             debugPrint(error.localizedDescription)
-            self?.showDefaultErrorAlert(title: error.localizedDescription)
+            self?.showDefaultAlert(title: error.localizedDescription)
         }
       } receiveValue: {
         [weak self] (upcoming: [Matches], previous: [Matches]) in

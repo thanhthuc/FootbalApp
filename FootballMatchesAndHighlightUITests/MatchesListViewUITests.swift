@@ -35,7 +35,7 @@ final class MatchesListViewUITests: XCTestCase {
     XCTAssertTrue(app.segmentedControls["matchesSegmentControlID"].exists)
   }
   
-  func testTapFilterButton() {
+  func testTapFilterButtonThenFilterViewExist() {
     // When
     app.buttons["filterButton"].tap()
     // Then
@@ -45,4 +45,14 @@ final class MatchesListViewUITests: XCTestCase {
   func testHighlightButtonExist() {
     XCTAssertTrue(app.buttons["highlightButtonID\(1)"].exists)
   }
+    
+  func testTapHighlightButtonThenHighViewExist() {
+    
+    // When
+    app.buttons["highlightButtonID\(1)"].tap()
+    
+    // Then
+    XCTAssertTrue(app.otherElements["highlightViewID"].exists)
+  }
+    
 }
