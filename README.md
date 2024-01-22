@@ -33,7 +33,7 @@ In iOS project, I have worked with webRTC technical, this framework use for stre
 
 # My experience about this:
 1. Alway must understand correctly about technical issue
-2. Should solve by you first, alway find a best solution before reference to some document. And then combine with documentation, then you can reference it, and use document in the good way to make sure we solve it more deeply and more perfectly
+2. Should solve by you first, alway find a best solution before reference to some document. And then combine with documentation, then you can reference it, and use document in the good way to make sure we solve it more deeply and more perfectly (document is very important beside your skill and knowledge)
 3. Use all of tool we can use to solve technical issue
 4. List all of the ways we can solve it, then choose a best solution
 5. Break down issue to small issue to solve it in correct way and perfect way
