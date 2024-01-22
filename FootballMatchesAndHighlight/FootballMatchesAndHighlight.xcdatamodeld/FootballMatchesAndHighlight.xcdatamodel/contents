@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22F66" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithCloudKit="YES" userDefinedModelVersionIdentifier="">
+    <entity name="MatchesMO" representedClassName="MatchesMO" syncable="YES">
+        <attribute name="away" optional="YES" attributeType="String"/>
+        <attribute name="date" optional="YES" attributeType="String"/>
+        <attribute name="highlights" optional="YES" attributeType="String"/>
+        <attribute name="home" optional="YES" attributeType="String"/>
+        <attribute name="matchDescription" optional="YES" attributeType="String"/>
+        <attribute name="winner" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="TeamMO" representedClassName="TeamMO" syncable="YES">
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="isSelectedFilter" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="logo" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+    </entity>
+</model>

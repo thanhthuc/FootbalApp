@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "58B98F44-0213-4AFF-83D8-30AB035F232D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FootballMatchesAndHighlight.xcodeproj",
+      "identifier" : "DB5414262B52D75000BC7CA1",
+      "name" : "FootballMatchesAndHighlight"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FootballMatchesAndHighlight.xcodeproj",
+        "identifier" : "DB54143F2B52D75200BC7CA1",
+        "name" : "FootballMatchesAndHighlightTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FootballMatchesAndHighlight.xcodeproj",
+        "identifier" : "DB5414492B52D75200BC7CA1",
+        "name" : "FootballMatchesAndHighlightUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

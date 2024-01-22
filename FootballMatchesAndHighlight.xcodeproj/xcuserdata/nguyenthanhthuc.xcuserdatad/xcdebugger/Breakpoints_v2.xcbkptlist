@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "59EB25AE-9172-4DD1-968A-0B3DC718D3AD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4443F1AB-C5DC-4F15-8653-242CB12E1599"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FootballMatchesAndHighlight/Hightlight/View/HighlightViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "observeValue(forKeyPath:of:change:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4443F1AB-C5DC-4F15-8653-242CB12E1599 - 180b669e4d186a0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballMatchesAndHighlight.HighlightViewController.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/Football%20Streaming%203/FootballMatchesAndHighlight/FootballMatchesAndHighlight/Hightlight/View/HighlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1412">
+               </Location>
+               <Location
+                  uuid = "4443F1AB-C5DC-4F15-8653-242CB12E1599 - 180b669e4d186a0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballMatchesAndHighlight.HighlightViewController.observeValue(forKeyPath: Swift.Optional&lt;Swift.String&gt;, of: Swift.Optional&lt;Any&gt;, change: Swift.Optional&lt;Swift.Dictionary&lt;__C.NSKeyValueChangeKey, Any&gt;&gt;, context: Swift.Optional&lt;Swift.UnsafeMutableRawPointer&gt;) -&gt; ()"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/Football%20Streaming%203/FootballMatchesAndHighlight/FootballMatchesAndHighlight/Hightlight/View/HighlightViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1422F5C9-041A-487E-91C9-8F223C86CF14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FootballMatchesAndHighlight/TeamDetails/View/TeamDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "updateSnapshot()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43565F9A-1012-47D7-9855-A97E1D61813A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FootballMatchesAndHighlight/MatchesList/View/MatchesListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
+            landmarkName = "configDiffableDataSource()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43565F9A-1012-47D7-9855-A97E1D61813A - a3f57e88a9fe79c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FootballMatchesAndHighlight.Team) -&gt; () in closure #1 (__C.UICollectionView, Foundation.IndexPath, FootballMatchesAndHighlight.Matches) -&gt; Swift.Optional&lt;__C.UICollectionViewCell&gt; in FootballMatchesAndHighlight.MatchesListViewController.configDiffableDataSource() -&gt; UIKit.UICollectionViewDiffableDataSource&lt;FootballMatchesAndHighlight.MatchesListViewController.MatchesListSection, FootballMatchesAndHighlight.Matches&gt;"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/Telegram%20Desktop/FootballStreamApp/FootballMatchesAndHighlight/FootballMatchesAndHighlight/MatchesList/View/MatchesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "682">
+               </Location>
+               <Location
+                  uuid = "43565F9A-1012-47D7-9855-A97E1D61813A - a3f57e88a9fe79c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FootballMatchesAndHighlight.Team) -&gt; () in closure #1 (__C.UICollectionView, Foundation.IndexPath, FootballMatchesAndHighlight.Matches) -&gt; Swift.Optional&lt;__C.UICollectionViewCell&gt; in FootballMatchesAndHighlight.MatchesListViewController.configDiffableDataSource() -&gt; UIKit.UICollectionViewDiffableDataSource&lt;FootballMatchesAndHighlight.MatchesListViewController.MatchesListSection, FootballMatchesAndHighlight.Matches&gt;"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/Telegram%20Desktop/FootballStreamApp/FootballMatchesAndHighlight/FootballMatchesAndHighlight/MatchesList/View/MatchesListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "234"
+                  endingLineNumber = "234"
+                  offsetFromSymbolStart = "379">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EBA4294-CAD7-4C4C-8F7A-1D01D3A28142"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FootballMatchesAndHighlight/TeamFilterView/ViewModel/TeamFilterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "viewDidload()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7EBA4294-CAD7-4C4C-8F7A-1D01D3A28142 - 38d89f56a11def01"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in FootballMatchesAndHighlight.TeamFilterViewModel.viewDidload() -&gt; ()"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/FootballMatchesAndHighlight/FootballMatchesAndHighlight/TeamFilterView/ViewModel/TeamFilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "7EBA4294-CAD7-4C4C-8F7A-1D01D3A28142 - 33030ae64e5318e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Bool) -&gt; () in FootballMatchesAndHighlight.TeamFilterViewModel.viewDidload() -&gt; ()"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/FootballMatchesAndHighlight/FootballMatchesAndHighlight/TeamFilterView/ViewModel/TeamFilterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F86E355B-6A3A-4215-993F-DA7A7C318D66"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FootballMatchesAndHighlight/Services/Local/TeamCoreDataService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getList(predicate:sortDescriptors:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F86E355B-6A3A-4215-993F-DA7A7C318D66 - 59a3469491b6bde8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FootballMatchesAndHighlight.TeamCoreDataService.getList(predicate: Swift.Optional&lt;__C.NSPredicate&gt;, sortDescriptors: Swift.Optional&lt;Swift.Array&lt;__C.NSSortDescriptor&gt;&gt;) -&gt; Swift.Result&lt;Swift.Array&lt;FootballMatchesAndHighlight.Team&gt;, Swift.Error&gt;"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/FootballMatchesAndHighlight/FootballMatchesAndHighlight/Services/Local/TeamCoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "F86E355B-6A3A-4215-993F-DA7A7C318D66 - 6fa85026872bf266"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FootballMatchesAndHighlight.TeamMO) -&gt; FootballMatchesAndHighlight.Team in FootballMatchesAndHighlight.TeamCoreDataService.getList(predicate: Swift.Optional&lt;__C.NSPredicate&gt;, sortDescriptors: Swift.Optional&lt;Swift.Array&lt;__C.NSSortDescriptor&gt;&gt;) -&gt; Swift.Result&lt;Swift.Array&lt;FootballMatchesAndHighlight.Team&gt;, Swift.Error&gt;"
+                  moduleName = "FootballMatchesAndHighlight"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenthanhthuc/Downloads/FootballMatchesAndHighlight/FootballMatchesAndHighlight/Services/Local/TeamCoreDataService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
